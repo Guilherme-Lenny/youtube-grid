@@ -10,7 +10,7 @@ Seja criativo(a) e dê a sua identidade para o Projeto. Lembre-se que para um(a)
 Link do Figma
 Aqui deixamos o link do Design no Figma apresentado pela Expert durante o Desafio para que você o tenha como referência:
 
-<a href="https://www.figma.com/design/KknwioExyqKD3D2eSVFrcW/Desafio-Grid---DIO?node-id=0-1" target="_blank">Desafio de Grid</a>
+<a href="https://www.figma.com/design/KknwioExyqKD3D2eSVFrcW/Desafio-Grid---DIO?node-id=0-1">Desafio de Grid</a>
 
  
  
